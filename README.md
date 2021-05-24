@@ -1,2 +1,3 @@
 # demo-repo
-THIS IS A DEMO GIT FILE FOR GIT
+This is a demo project
+
